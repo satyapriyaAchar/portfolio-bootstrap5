@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(300deg,white, #fee8f0, #ddfffc );
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+.top{
+    background-color: rgb(212, 255, 248);
+}
+.nav-item a{
+    color: black;
+    font-size: 1.5rem;
+    --bs-nav-link-hover-color: yellow;
+}
+
+#About{
+    /* background-color: #D4F1F4; */
+    height: 100vh;
+}
+span{
+    color: black;
+}
+.photo{
+    width: 400px;
+    border-radius: 10px;
+    border: 5px solid rgb(228, 255, 255);
+}
+/* img{
+    border-radius: 10px;
+} */
+.Footer{
+    background-color: rgb(212, 255, 248);
+}
+
